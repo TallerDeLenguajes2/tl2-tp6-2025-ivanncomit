@@ -1,5 +1,5 @@
 ﻿using Microsoft.Data.Sqlite;
-string connectionString = "Data Source=Tienda_final.db;";
+string connectionString = "Data Source=Tienda.db;";
 
 // Crear conexión a la base de datos
 using (SqliteConnection connection = new SqliteConnection(connectionString))
@@ -30,7 +30,7 @@ using (SqliteConnection connection = new SqliteConnection(connectionString))
                 Console.WriteLine("Datos en la tabla 'Productos':");
                 while (reader.Read())
                 {
-                    Console.WriteLine($"ID: {reader["idProducto"]}, Descripcion: {reader["Desripcion"]}, Precio: {reader["Precio"]}");
+                    Console.WriteLine($"ID: {reader["idProducto"]}, Descripcion: {reader["Descripcion"]}, Precio: {reader["Precio"]}");
                 }
             }
 
