@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {}
+    "C:\\Users\\Alumno\\Desktop\\repotdl\\tl2-tp6-2025-ivanncomit\\db.csproj": {}
   },
   "projects": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {
+    "C:\\Users\\Alumno\\Desktop\\repotdl\\tl2-tp6-2025-ivanncomit\\db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Taller\\repos\\2025\\db\\db.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\repotdl\\tl2-tp6-2025-ivanncomit\\db.csproj",
         "projectName": "db",
-        "projectPath": "D:\\Taller\\repos\\2025\\db\\db.csproj",
-        "packagesPath": "C:\\Users\\queco\\.nuget\\packages\\",
-        "outputPath": "D:\\Taller\\repos\\2025\\db\\obj\\",
+        "projectPath": "C:\\Users\\Alumno\\Desktop\\repotdl\\tl2-tp6-2025-ivanncomit\\db.csproj",
+        "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alumno\\Desktop\\repotdl\\tl2-tp6-2025-ivanncomit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\queco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
